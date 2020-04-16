@@ -6,3 +6,14 @@ Esse projeto tem um comportamento bem simples e basicamente ele serve para pegar
 Foi utilizado o Insomnia para realizar os testes da API.
 
 O motivo da criação foi apenas para estudo.
+
+As tecnologias utilizadas foram:
+
+NodeJs
+Express
+Docker
+MongoDB
+Mongoose
+Mongoose-Paginate
+Insomnia
+CORS
