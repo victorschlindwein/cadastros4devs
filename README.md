@@ -9,11 +9,4 @@ O motivo da criação foi apenas para estudo.
 
 As tecnologias utilizadas foram:
 
-NodeJs
-Express
-Docker
-MongoDB
-Mongoose
-Mongoose-Paginate
-Insomnia
-CORS
+NodeJs, Express, Docker, MongoDB, Mongoose, Mongoose-Paginate, Insomnia, CORS.
